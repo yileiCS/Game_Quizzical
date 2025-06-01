@@ -22,5 +22,3 @@
 - This game uses the [Open Trivia DB API](https://opentdb.com/api_config.php)
 
 
----
-The existed rankingboard.json file in the package is part of the testing records.
