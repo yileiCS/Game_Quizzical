@@ -18,6 +18,18 @@
 
 
 ---
+# Game Interface
+![Game Interface](game_interface.jpg)
+
+The game features a terminal-based interface with:
+- ASCII art title "QUIZZICAL"
+- Real-time score tracking and timer display
+- Multiple choice questions with numbered options
+- Interactive controls panel showing all available commands
+- Hints and pause functionality indicators
+
+
+---
 # API
 - This game uses the [Open Trivia DB API](https://opentdb.com/api_config.php)
 
